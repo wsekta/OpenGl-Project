@@ -1,0 +1,6 @@
+.idea/
+cmake-build-debug/
+!cmake-build-debug/dane3d.dat
+!cmake-build-debug/fragment_shader.glsl
+!cmake-build-debug/fragment_shader2.glsl
+!cmake-build-debug/vertex_shader.glsl
